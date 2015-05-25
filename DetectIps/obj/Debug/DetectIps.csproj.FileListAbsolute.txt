@@ -1,0 +1,6 @@
+D:\workspace\DetectIps\DetectIps\bin\Debug\DetectIps.exe.config
+D:\workspace\DetectIps\DetectIps\bin\Debug\DetectIps.exe
+D:\workspace\DetectIps\DetectIps\bin\Debug\DetectIps.pdb
+D:\workspace\DetectIps\DetectIps\obj\Debug\DetectIps.exe
+D:\workspace\DetectIps\DetectIps\obj\Debug\DetectIps.pdb
+D:\workspace\DetectIps\DetectIps\obj\Debug\DetectIps.csprojResolveAssemblyReference.cache
